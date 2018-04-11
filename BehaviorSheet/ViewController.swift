@@ -10,15 +10,20 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    @IBAction func editButtonTapped(_ sender: Any)
+    {
+        let alert = UIAlertController(title: "Enter Teacher Password", message: nil, preferredStyle: .alert)
+        alert.addTextField { (textField) in
+        }
+        alert.addAction(UIAlertAction(title: "Done", style: .default, handler: nil))
+        present(alert, animated: true, completion: nil)
     }
+    
 
 
 }
