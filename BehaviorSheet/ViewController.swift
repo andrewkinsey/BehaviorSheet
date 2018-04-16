@@ -9,7 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    @IBOutlet var scoreButtons: [UIButton]!
+    
     override func viewDidLoad()
     {
         super.viewDidLoad()
@@ -24,7 +26,8 @@ class ViewController: UIViewController {
         present(alert, animated: true, completion: nil)
     }
     
-
+    
+    
 
 }
 
