@@ -14,6 +14,8 @@ class ViewController: UIViewController, UITextFieldDelegate, UIPickerViewDelegat
     @IBOutlet var pickerViews: [UIPickerView]!
   
     var scores = ["0","1","2"]
+    var password = "bsdsh"
+    
     
     override func viewDidLoad()
     {
@@ -346,12 +348,17 @@ class ViewController: UIViewController, UITextFieldDelegate, UIPickerViewDelegat
         let alert = UIAlertController(title: "Enter Teacher Password", message: nil, preferredStyle: .alert)
         alert.addTextField { (textField) in
         }
-        alert.addAction(UIAlertAction(title: "Done", style: .default, handler: nil))
+        alert.addAction(UIAlertAction(title: "Done", style: .default, handler: { (action) in
+            let text = alert.textFields![0] as UITextField
+            
+            if text.text == self.password
+            {
+                self.textFields[0].isEnabled = true
+            }
+        }))
+        //alert.addAction(UIAlertAction(title: "Done", style: .default, handler: nil))
         present(alert, animated: true, completion: nil)
     }
-    
-    
-    
 
 }
 
