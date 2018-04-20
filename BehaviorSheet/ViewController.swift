@@ -8,7 +8,8 @@
 
 import UIKit
 
-class ViewController: UIViewController, UITextFieldDelegate, UIPickerViewDelegate, UIPickerViewDataSource {
+class ViewController: UIViewController, UITextFieldDelegate, UIPickerViewDelegate, UIPickerViewDataSource
+{
 
     @IBOutlet var textFields: [UITextField]!
     @IBOutlet var pickerViews: [UIPickerView]!
@@ -22,20 +23,24 @@ class ViewController: UIViewController, UITextFieldDelegate, UIPickerViewDelegat
         super.viewDidLoad()
     }
     
-    func numberOfComponents(in pickerView: UIPickerView) -> Int {
+    func numberOfComponents(in pickerView: UIPickerView) -> Int
+    {
         return 1
     }
     
-    func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
+    func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int
+    {
         return scores.count
     }
 
-    func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
+    func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String?
+    {
         self.view.endEditing(true)
         return scores[row]
     }
     
-    func pickerView(_ pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
+    func pickerView(_ pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int)
+    {
         if pickerView == pickerViews[0]
         {
             self.textFields[0].text = self.scores[row]
@@ -188,7 +193,8 @@ class ViewController: UIViewController, UITextFieldDelegate, UIPickerViewDelegat
         }
     }
     
-    func textFieldDidBeginEditing(_ textField: UITextField) {
+    func textFieldDidBeginEditing(_ textField: UITextField)
+    {
         if textField == textFields[0]
         {
             pickerViews[0].isHidden = false
@@ -356,7 +362,6 @@ class ViewController: UIViewController, UITextFieldDelegate, UIPickerViewDelegat
                 self.textFields[0].isEnabled = true
             }
         }))
-        //alert.addAction(UIAlertAction(title: "Done", style: .default, handler: nil))
         present(alert, animated: true, completion: nil)
     }
 
