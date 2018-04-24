@@ -197,270 +197,270 @@
                                 <rect key="frame" x="140" y="245" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="IKL-c5-5jQ">
                                 <rect key="frame" x="400" y="245" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="CBg-BW-iGW">
                                 <rect key="frame" x="140" y="310" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="i2p-bZ-U9v">
                                 <rect key="frame" x="270" y="310" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="Vbw-gx-Mzf">
                                 <rect key="frame" x="400" y="310" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="VT3-Ad-NGM">
                                 <rect key="frame" x="140" y="375" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="pfy-aw-exQ">
                                 <rect key="frame" x="270" y="375" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="JEg-s9-eNi">
                                 <rect key="frame" x="400" y="375" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="mt5-LC-Cdp">
                                 <rect key="frame" x="270" y="245" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="i2q-lX-Oa2">
                                 <rect key="frame" x="140" y="440" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="rT3-Qi-fNh">
                                 <rect key="frame" x="270" y="440" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="rTA-F9-EqB">
                                 <rect key="frame" x="400" y="440" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="Y1z-bP-xsx">
                                 <rect key="frame" x="140" y="505" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="RLM-jK-LuV">
                                 <rect key="frame" x="270" y="505" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="rvd-rX-0A0">
                                 <rect key="frame" x="400" y="505" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="z16-YX-d2q">
                                 <rect key="frame" x="140" y="570" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="LXY-v6-oev">
                                 <rect key="frame" x="270" y="570" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="LNw-xM-uH9">
                                 <rect key="frame" x="400" y="570" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="deJ-k1-L9r">
                                 <rect key="frame" x="140" y="635" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="08j-yk-G1N">
                                 <rect key="frame" x="270" y="635" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="Tgj-31-8iW">
                                 <rect key="frame" x="400" y="635" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="OwC-eJ-YNm">
                                 <rect key="frame" x="140" y="700" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="htk-9H-OPh">
                                 <rect key="frame" x="270" y="700" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="uvE-48-gze">
                                 <rect key="frame" x="400" y="700" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="EXk-Jt-zmt">
                                 <rect key="frame" x="140" y="765" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="cah-Nb-8RY">
                                 <rect key="frame" x="270" y="765" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="Sib-dd-30r">
                                 <rect key="frame" x="400" y="765" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="5da-wg-CvI">
                                 <rect key="frame" x="140" y="830" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="qKl-Ig-dbu">
                                 <rect key="frame" x="270" y="830" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                             <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="qHX-b8-oW2">
                                 <rect key="frame" x="400" y="830" width="100" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="0"/>
-                                    <segment title="1"/>
-                                    <segment title="2"/>
+                                    <segment title="0" enabled="NO"/>
+                                    <segment title="1" enabled="NO"/>
+                                    <segment title="2" enabled="NO"/>
                                 </segments>
                             </segmentedControl>
                         </subviews>
@@ -474,6 +474,38 @@
                             </connections>
                         </barButtonItem>
                     </navigationItem>
+                    <connections>
+                        <outletCollection property="segmentedControllers" destination="s3L-8J-fRu" collectionClass="NSMutableArray" id="nhh-Zy-9Jf"/>
+                        <outletCollection property="segmentedControllers" destination="mt5-LC-Cdp" collectionClass="NSMutableArray" id="aYe-Wt-10d"/>
+                        <outletCollection property="segmentedControllers" destination="IKL-c5-5jQ" collectionClass="NSMutableArray" id="Z3O-Qb-A8w"/>
+                        <outletCollection property="segmentedControllers" destination="CBg-BW-iGW" collectionClass="NSMutableArray" id="Gvr-Wr-WXy"/>
+                        <outletCollection property="segmentedControllers" destination="i2p-bZ-U9v" collectionClass="NSMutableArray" id="8m3-zN-Ruo"/>
+                        <outletCollection property="segmentedControllers" destination="Vbw-gx-Mzf" collectionClass="NSMutableArray" id="eSg-bI-CDV"/>
+                        <outletCollection property="segmentedControllers" destination="VT3-Ad-NGM" collectionClass="NSMutableArray" id="sTz-fn-exu"/>
+                        <outletCollection property="segmentedControllers" destination="pfy-aw-exQ" collectionClass="NSMutableArray" id="dBB-om-2ha"/>
+                        <outletCollection property="segmentedControllers" destination="JEg-s9-eNi" collectionClass="NSMutableArray" id="0Bm-Lm-YoH"/>
+                        <outletCollection property="segmentedControllers" destination="i2q-lX-Oa2" collectionClass="NSMutableArray" id="HJf-gG-6R5"/>
+                        <outletCollection property="segmentedControllers" destination="rT3-Qi-fNh" collectionClass="NSMutableArray" id="Hju-gs-qoz"/>
+                        <outletCollection property="segmentedControllers" destination="rTA-F9-EqB" collectionClass="NSMutableArray" id="U9n-sB-Cv8"/>
+                        <outletCollection property="segmentedControllers" destination="Y1z-bP-xsx" collectionClass="NSMutableArray" id="cpM-Fg-XHe"/>
+                        <outletCollection property="segmentedControllers" destination="RLM-jK-LuV" collectionClass="NSMutableArray" id="D4Z-T6-jOK"/>
+                        <outletCollection property="segmentedControllers" destination="rvd-rX-0A0" collectionClass="NSMutableArray" id="6sO-qP-qIk"/>
+                        <outletCollection property="segmentedControllers" destination="z16-YX-d2q" collectionClass="NSMutableArray" id="8Tt-7g-aYH"/>
+                        <outletCollection property="segmentedControllers" destination="LXY-v6-oev" collectionClass="NSMutableArray" id="EdR-bh-cFt"/>
+                        <outletCollection property="segmentedControllers" destination="LNw-xM-uH9" collectionClass="NSMutableArray" id="H0F-Q8-vsx"/>
+                        <outletCollection property="segmentedControllers" destination="deJ-k1-L9r" collectionClass="NSMutableArray" id="Hse-Xf-zZi"/>
+                        <outletCollection property="segmentedControllers" destination="08j-yk-G1N" collectionClass="NSMutableArray" id="8WQ-rg-V4u"/>
+                        <outletCollection property="segmentedControllers" destination="Tgj-31-8iW" collectionClass="NSMutableArray" id="zri-vn-6wn"/>
+                        <outletCollection property="segmentedControllers" destination="OwC-eJ-YNm" collectionClass="NSMutableArray" id="twb-aY-rHX"/>
+                        <outletCollection property="segmentedControllers" destination="htk-9H-OPh" collectionClass="NSMutableArray" id="Rfm-3S-oVC"/>
+                        <outletCollection property="segmentedControllers" destination="uvE-48-gze" collectionClass="NSMutableArray" id="AWv-hF-80z"/>
+                        <outletCollection property="segmentedControllers" destination="EXk-Jt-zmt" collectionClass="NSMutableArray" id="X71-u3-irI"/>
+                        <outletCollection property="segmentedControllers" destination="cah-Nb-8RY" collectionClass="NSMutableArray" id="BHa-A0-sSF"/>
+                        <outletCollection property="segmentedControllers" destination="Sib-dd-30r" collectionClass="NSMutableArray" id="kcq-4O-gVR"/>
+                        <outletCollection property="segmentedControllers" destination="5da-wg-CvI" collectionClass="NSMutableArray" id="z5L-Dw-R2j"/>
+                        <outletCollection property="segmentedControllers" destination="qKl-Ig-dbu" collectionClass="NSMutableArray" id="tWQ-fo-KG2"/>
+                        <outletCollection property="segmentedControllers" destination="qHX-b8-oW2" collectionClass="NSMutableArray" id="PNj-5Y-7SZ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

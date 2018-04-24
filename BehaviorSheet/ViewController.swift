@@ -10,18 +10,16 @@ import UIKit
 
 class ViewController: UIViewController
 {
-
-    
+    @IBOutlet var segmentedControllers: [UISegmentedControl]!
     
     var scores = ["0","1","2"]
     var password = "bsdsh"
-    
     
     override func viewDidLoad()
     {
         super.viewDidLoad()
     }
-
+    
     @IBAction func editButtonTapped(_ sender: Any)
     {
         let alert = UIAlertController(title: "Enter Teacher Password", message: nil, preferredStyle: .alert)
